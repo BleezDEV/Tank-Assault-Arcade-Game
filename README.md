@@ -1,6 +1,8 @@
 # Tank-Assault-Arcade-Game
 
--Fun game I created using Python Turtle Graphics.
+-This was the first game I created using Python Turtle Graphics.
+
+-I was still learning python at the time, and I was still introducing myself to game development. 
 
 -You are a tank deployed on an alien-infested planet. Defend the planet from the enemy aliens.
 
