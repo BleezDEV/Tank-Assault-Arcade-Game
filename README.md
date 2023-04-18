@@ -1,6 +1,6 @@
 # Tank-Assault-Arcade-Game
 
--This was the first game I created using Python Turtle Graphics.
+-This was among the first games I created using Python Turtle Graphics.
 
 -I was still learning python at the time, and I was still introducing myself to game development. 
 
