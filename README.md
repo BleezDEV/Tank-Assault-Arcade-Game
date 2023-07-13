@@ -8,4 +8,4 @@
 
 -Space to shoot cannon, A and D to rotate the cannon left and right.
 
--I am yet to add object oriented programming to this project
+-I am yet to add object oriented programming to this project as well as incorporating delta time to eliminate latency in the movement of sprites
